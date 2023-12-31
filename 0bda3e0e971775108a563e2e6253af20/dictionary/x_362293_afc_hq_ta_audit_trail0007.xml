@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f92d4248972331108a563e2e6253afb1" extends="syslog0007" label="Audit Trail 7" max_length="40" name="x_362293_afc_hq_ta_audit_trail0007" type="collection"/>
+</database>

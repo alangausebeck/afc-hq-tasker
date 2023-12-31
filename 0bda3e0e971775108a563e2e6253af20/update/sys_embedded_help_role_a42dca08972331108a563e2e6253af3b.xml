@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_362293_afc_hq_ta.audit_trail_user" name="x_362293_afc_hq_ta.audit_trail_user">a02dca08972331108a563e2e6253af3a</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-31 18:12:54</sys_created_on>
+        <sys_id>a42dca08972331108a563e2e6253af3b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a02dca08972331108a563e2e6253af3a</sys_name>
+        <sys_package display_value="AFC HQ Tasker" source="x_362293_afc_hq_ta">0bda3e0e971775108a563e2e6253af20</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AFC HQ Tasker">0bda3e0e971775108a563e2e6253af20</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a42dca08972331108a563e2e6253af3b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-31 18:12:54</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

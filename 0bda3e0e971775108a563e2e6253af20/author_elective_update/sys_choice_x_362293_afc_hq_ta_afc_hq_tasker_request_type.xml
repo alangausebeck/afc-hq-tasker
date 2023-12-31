@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="request_type" table="x_362293_afc_hq_ta_afc_hq_tasker" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>request_type</element>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:51:32</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>request_type</sys_name>
+            <sys_package display_value="AFC HQ Tasker" source="x_362293_afc_hq_ta">0bda3e0e971775108a563e2e6253af20</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AFC HQ Tasker">0bda3e0e971775108a563e2e6253af20</sys_scope>
+            <sys_update_name>sys_choice_x_362293_afc_hq_ta_afc_hq_tasker_request_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-28 21:51:32</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New Digital Directory on the 15th Floor (Special Equipment Request)</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:51:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c242ef87971379108a563e2e6253af2b</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-28 22:16:22</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Outprocessing - Departing AFC HQs Employee</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:56:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29636f4b971379108a563e2e6253af81</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:11:00</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inprocessing - New AFC HQs Employee</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:52:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86622f0b971379108a563e2e6253af0f</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-28 22:16:22</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Outprocessing - ITaaS</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:56:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c83ef4b971379108a563e2e6253af99</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:10:55</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inprocessing - ITaaS</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:52:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5a22f0b971379108a563e2e6253af11</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-28 22:16:22</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ITAS Waiver</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:56:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c93638b971379108a563e2e6253af43</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:10:49</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Contracts Question</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:57:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90a3ab4b971379108a563e2e6253affe</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:10:44</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Licenses Question</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:57:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77a36b4b971379108a563e2e6253afa4</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:10:38</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New App/System/Platform Rationalization Request</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:57:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>83b3a38b971379108a563e2e6253af69</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:10:34</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Existing App/System/Platform Rationalization Request</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:57:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82c3e38b971379108a563e2e6253af3f</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:10:29</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AFC CIO Community of Practice (CoP) Membership Request</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:58:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9d3678b971379108a563e2e6253af9e</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:10:23</sys_updated_on>
+            <value>11</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Any Query/Request for DREN Capabilities/Services/Connections</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:58:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8de3a78b971379108a563e2e6253afb8</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:10:16</sys_updated_on>
+            <value>12</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Any Query/Request for DREN Cloud/Storage Capabilities/Services/Connections</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:58:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05f3278b971379108a563e2e6253af6f</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:10:03</sys_updated_on>
+            <value>13</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>General Cloud Migration Question</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:59:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>58146b8b971379108a563e2e6253af96</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:09:57</sys_updated_on>
+            <value>14</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Request for Initial Cloud Migration Pre-Assessment</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>11</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:59:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a424278b971379108a563e2e6253af6c</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:09:51</sys_updated_on>
+            <value>15</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Individual App/System/Platform Cloud Migration Plan (CMP) Assistance</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>12</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:59:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f242b4b971379108a563e2e6253af5d</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:09:45</sys_updated_on>
+            <value>16</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Individual App/System/Platform Cloud Migration Status Request</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>13</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:59:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ae34e38b971379108a563e2e6253af61</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:09:17</sys_updated_on>
+            <value>17</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cloud To-Be Architecture &amp; Cost Estimate</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>14</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:59:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2446f8b971379108a563e2e6253af16</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:09:11</sys_updated_on>
+            <value>18</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cloud Optimization/Refactoring/Deployement of Current Cloud App/System</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>15</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 22:00:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f054e78b971379108a563e2e6253af1c</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:08:48</sys_updated_on>
+            <value>19</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cloud RMF Package Development</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>16</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 22:00:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5464af8b971379108a563e2e6253afc6</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:08:41</sys_updated_on>
+            <value>20</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Any Query/Request for Strategic IT Planning Program Information</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>17</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 22:00:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e64278b971379108a563e2e6253af1f</sys_id>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:08:11</sys_updated_on>
+            <value>21</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>General IT Portfolio Rationalization Question</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>18</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 22:00:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>797423cb971379108a563e2e6253af1c</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:07:47</sys_updated_on>
+            <value>22</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AFC CIO Community of Practice (CoP) Guidelines Questions/Input/Suggestions</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>19</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 22:00:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f08463cb971379108a563e2e6253af59</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:11:05</sys_updated_on>
+            <value>23</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>General DREN Question</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 22:01:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0094af8b971379108a563e2e6253af04</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:11:12</sys_updated_on>
+            <value>24</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>General Strategic IT Planning Question</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>21</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 22:01:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e94a3cb971379108a563e2e6253afe1</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:11:26</sys_updated_on>
+            <value>25</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Any Query/Request for DREN Engineering/Design/Modification</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_afc_hq_tasker</name>
+            <sequence>22</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 21:58:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc042b8b971379108a563e2e6253afd0</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 17:11:31</sys_updated_on>
+            <value>26</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
