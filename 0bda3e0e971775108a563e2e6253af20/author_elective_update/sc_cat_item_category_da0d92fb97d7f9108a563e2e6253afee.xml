@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value=" AFC HQ Tasker">7e559ab397d7f9108a563e2e6253afb9</sc_cat_item>
+        <sc_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-31 00:43:54</sys_created_on>
+        <sys_id>da0d92fb97d7f9108a563e2e6253afee</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Departmental Services. AFC HQ Tasker</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="AFC HQ Tasker">0bda3e0e971775108a563e2e6253af20</sys_scope>
+        <sys_update_name>sc_cat_item_category_da0d92fb97d7f9108a563e2e6253afee</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-31 00:44:04</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AFC HQ Tasker">0bda3e0e971775108a563e2e6253af20</application>
+        <file_path/>
+        <instance_id>ade73b0edbe037008aea21c4059619b1</instance_id>
+        <instance_name>dev78540</instance_name>
+        <name>sc_cat_item_category_da0d92fb97d7f9108a563e2e6253afee</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value=" AFC HQ Tasker">7e559ab397d7f9108a563e2e6253afb9</sc_cat_item><sc_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-31 00:43:54</sys_created_on><sys_id>da0d92fb97d7f9108a563e2e6253afee</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Departmental Services. AFC HQ Tasker</sys_name><sys_package/><sys_policy/><sys_scope display_value="AFC HQ Tasker">0bda3e0e971775108a563e2e6253af20</sys_scope><sys_update_name>sc_cat_item_category_da0d92fb97d7f9108a563e2e6253afee</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-12-31 00:44:04</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1989342281</payload_hash>
+        <record_name>Departmental Services. AFC HQ Tasker</record_name>
+        <reverted_from/>
+        <source>f50cbad8976371108a563e2e6253af05</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-01-01 16:16:17</sys_created_on>
+        <sys_id>020cbad8976371108a563e2e6253af2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18cc5cfc5340000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-01-01 16:16:17</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>460cbad84b63711031ce9867a09f612c</update_guid>
+        <update_guid_history>460cbad84b63711031ce9867a09f612c:-1989342281,7c1dd2fb41d7f91057a4a8e8ea5708ce:-2094722645</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Departmental Services. AFC HQ Tasker">ce0cbad8976371108a563e2e6253af49</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-01-01 16:16:17</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>16560196c77248a68406d585097b85e1</sys_id>
+        <sys_metadata>da0d92fb97d7f9108a563e2e6253afee</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departmental Services. AFC HQ Tasker</sys_name>
+        <sys_package display_value="AFC HQ Tasker" source="x_362293_afc_hq_ta">0bda3e0e971775108a563e2e6253af20</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AFC HQ Tasker">0bda3e0e971775108a563e2e6253af20</sys_scope>
+        <sys_scope_delete display_value="">0041105fabfc423a800124a477542621</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_da0d92fb97d7f9108a563e2e6253afee</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_da0d92fb97d7f9108a563e2e6253afee">020cbad8976371108a563e2e6253af2d</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-01-01 16:16:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

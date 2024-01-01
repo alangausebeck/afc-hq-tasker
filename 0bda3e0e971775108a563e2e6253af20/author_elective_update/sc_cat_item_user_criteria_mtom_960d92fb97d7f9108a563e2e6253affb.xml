@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value=" AFC HQ Tasker">7e559ab397d7f9108a563e2e6253afb9</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-31 00:43:54</sys_created_on>
+        <sys_id>960d92fb97d7f9108a563e2e6253affb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name> AFC HQ Tasker.Any User</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="AFC HQ Tasker">0bda3e0e971775108a563e2e6253af20</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_960d92fb97d7f9108a563e2e6253affb</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-31 00:44:04</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AFC HQ Tasker">0bda3e0e971775108a563e2e6253af20</application>
+        <file_path/>
+        <instance_id>ade73b0edbe037008aea21c4059619b1</instance_id>
+        <instance_name>dev78540</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_960d92fb97d7f9108a563e2e6253affb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value=" AFC HQ Tasker">7e559ab397d7f9108a563e2e6253afb9</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-31 00:43:54</sys_created_on><sys_id>960d92fb97d7f9108a563e2e6253affb</sys_id><sys_mod_count>1</sys_mod_count><sys_name> AFC HQ Tasker.Any User</sys_name><sys_package/><sys_policy/><sys_scope display_value="AFC HQ Tasker">0bda3e0e971775108a563e2e6253af20</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_960d92fb97d7f9108a563e2e6253affb</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-12-31 00:44:04</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-1482485712</payload_hash>
+        <record_name> AFC HQ Tasker.Any User</record_name>
+        <reverted_from/>
+        <source>ac1dd2fb97d7f9108a563e2e6253af93</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-31 00:44:04</sys_created_on>
+        <sys_id>781dd2fb97d7f9108a563e2e6253afd4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18cbd53f1a70000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-31 00:44:04</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>fc1dd2fbfbd7f910018c3654e1a49cd3</update_guid>
+        <update_guid_history>fc1dd2fbfbd7f910018c3654e1a49cd3:-1482485712,b41dd2fb3fd7f910817367996203c6d1:353814279</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=" AFC HQ Tasker.Any User">ca0cbad8976371108a563e2e6253af52</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-01-01 16:16:17</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>5ad1b883e36841e4b5e0584dcf136124</sys_id>
+        <sys_metadata>960d92fb97d7f9108a563e2e6253affb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name> AFC HQ Tasker.Any User</sys_name>
+        <sys_package display_value="AFC HQ Tasker" source="x_362293_afc_hq_ta">0bda3e0e971775108a563e2e6253af20</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AFC HQ Tasker">0bda3e0e971775108a563e2e6253af20</sys_scope>
+        <sys_scope_delete display_value="">0041105fabfc423a800124a477542621</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_960d92fb97d7f9108a563e2e6253affb</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_960d92fb97d7f9108a563e2e6253affb">781dd2fb97d7f9108a563e2e6253afd4</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-01-01 16:16:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
