@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="cfb4b214976371108a563e2e6253afc5" label="Request Type" max_length="40" name="x_362293_afc_hq_ta_request_type" type="collection">
+        <element choice="1" label="Request Type Name" max_length="100" name="request_type_name" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Any Query/Request for DREN Engineering/Design/Modification" value="26"/>
+                <element inactive_on_update="false" label="Contracts Question" value="7"/>
+                <element inactive_on_update="false" label="Inprocessing - ITaaS" value="3"/>
+                <element inactive_on_update="false" label="Inprocessing - New AFC HQs Employee" value="2"/>
+                <element inactive_on_update="false" label="ITAS Waiver" value="6"/>
+                <element inactive_on_update="false" label="Licenses Question" value="8"/>
+                <element inactive_on_update="false" label="Outprocessing - Departing AFC HQs Employee" value="4"/>
+                <element inactive_on_update="false" label="Outprocessing - Departing AFC HQs Employee" value="4"/>
+                <element inactive_on_update="false" label="Outprocessing - ITaaS" value="5"/>
+            </choice>
+        </element>
+    </element>
+</database>

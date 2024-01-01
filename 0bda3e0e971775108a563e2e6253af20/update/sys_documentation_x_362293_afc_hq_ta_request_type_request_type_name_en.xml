@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="request_type_name" label="Request Type Name" language="en" table="x_362293_afc_hq_ta_request_type">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>request_type_name</element>
+            <help/>
+            <hint/>
+            <label>Request Type Name</label>
+            <language>en</language>
+            <name>x_362293_afc_hq_ta_request_type</name>
+            <plural>Request Type Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-01 15:47:14</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Request Type Name</sys_name>
+            <sys_package display_value="AFC HQ Tasker" source="x_362293_afc_hq_ta">0bda3e0e971775108a563e2e6253af20</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AFC HQ Tasker">0bda3e0e971775108a563e2e6253af20</sys_scope>
+            <sys_update_name>sys_documentation_x_362293_afc_hq_ta_request_type_request_type_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-01 15:47:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
