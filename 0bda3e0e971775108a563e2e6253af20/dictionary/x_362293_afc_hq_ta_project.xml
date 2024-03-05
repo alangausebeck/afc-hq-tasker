@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="798175c59778c2108a563e2e6253af51" label="AFC Project" max_length="40" name="x_362293_afc_hq_ta_project" type="collection">
+        <element label="Project Name" max_length="100" name="project_name" type="string"/>
+    </element>
+</database>

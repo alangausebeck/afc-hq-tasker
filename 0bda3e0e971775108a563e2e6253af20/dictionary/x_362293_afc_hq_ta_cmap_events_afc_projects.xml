@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b012f1099778c2108a563e2e6253af7d" label="CMAP Events AFC Projects" max_length="40" name="x_362293_afc_hq_ta_cmap_events_afc_projects" type="collection">
+        <element label="AFC Project" max_length="32" name="afc_project" reference="x_362293_afc_hq_ta_project" type="reference"/>
+        <element choice="1" label="AFC Project Choice" max_length="100" name="afc_project_choice" type="choice">
+            <choice/>
+        </element>
+        <element label="CMAP Event" max_length="32" name="cmap_event" reference="x_362293_afc_hq_ta_cmap_events" type="reference"/>
+        <element label="CMAP Event Date" max_length="100" name="cmap_event_date" type="glide_date"/>
+        <index name="index">
+            <element name="afc_project"/>
+        </index>
+        <index name="index2">
+            <element name="cmap_event"/>
+        </index>
+    </element>
+</database>
