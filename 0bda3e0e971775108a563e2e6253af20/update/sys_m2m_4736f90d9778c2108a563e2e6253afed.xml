@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_m2m">
+    <sys_m2m action="INSERT_OR_UPDATE">
+        <from_table>x_362293_afc_hq_ta_cmap_events</from_table>
+        <m2m_from_field>x_362293_afc_hq_ta_cmap_events</m2m_from_field>
+        <m2m_from_label>AFC Projects</m2m_from_label>
+        <m2m_table>x_362293_afc_hq_ta_m2m_x_362293_af_x_362293_af</m2m_table>
+        <m2m_to_field>x_362293_afc_hq_ta_project</m2m_to_field>
+        <m2m_to_label>CMAP Events</m2m_to_label>
+        <sys_class_name>sys_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-05 22:28:24</sys_created_on>
+        <sys_id>4736f90d9778c2108a563e2e6253afed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_362293_afc_hq_ta_m2m_x_362293_af_x_362293_af</sys_name>
+        <sys_package display_value="AFC HQ Tasker" source="x_362293_afc_hq_ta">0bda3e0e971775108a563e2e6253af20</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AFC HQ Tasker">0bda3e0e971775108a563e2e6253af20</sys_scope>
+        <sys_update_name>sys_m2m_4736f90d9778c2108a563e2e6253afed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-05 22:28:24</sys_updated_on>
+        <to_table>x_362293_afc_hq_ta_project</to_table>
+    </sys_m2m>
+</record_update>

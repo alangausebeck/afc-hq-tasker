@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="34f67d899778c2108a563e2e6253afb1" label="x_362293_afc_hq_ta_m2m_CMAP Events_AFC Projects" max_length="40" name="x_362293_afc_hq_ta_m2m_x_362293_af_x_362293_af" type="collection">
+        <element attributes="encode_utf8=false" label="CMAP Events" max_length="32" name="x_362293_afc_hq_ta_cmap_events" reference="x_362293_afc_hq_ta_cmap_events" type="reference"/>
+        <element attributes="encode_utf8=false" label="AFC Projects" max_length="32" name="x_362293_afc_hq_ta_project" reference="x_362293_afc_hq_ta_project" type="reference"/>
+        <index name="index">
+            <element name="x_362293_afc_hq_ta_cmap_events"/>
+        </index>
+        <index name="index2">
+            <element name="x_362293_afc_hq_ta_project"/>
+        </index>
+    </element>
+</database>
